@@ -1,0 +1,9 @@
+# ignore virtualenv
+
+/env
+
+/asmdp/asmdp/media/object_detected_img/*
+/asmdp/asmdp/media/upload_files/*
+/asmdp/asmdp/media/video_detected/*
+
+/asmdp/object_detection_files/*
